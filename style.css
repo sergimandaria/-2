@@ -1,0 +1,91 @@
+
+header img{
+
+    margin-top: 30px;
+    margin-left: 40px
+    
+}
+.navbar ul{
+    
+    margin-top: 40px;
+    
+}
+   
+.color{
+    color:  rgba(245, 8, 8, 1);
+    
+    
+}   
+.red{
+    color: rgba(18, 132, 16, 1);
+
+}
+.black{
+    color: rgba(18, 132, 16, 1);
+
+
+}
+ 
+ .navbar li{
+        list-style-type: none; 
+        margin: 18px 0px;
+        
+    } 
+ .navbar a{
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+    
+    
+}
+main img{
+    margin-left: 40px;
+    margin-top: 50px;
+    
+    
+    
+}
+.dt3{
+    color: rgba(32, 255, 13, 1);
+    margin-left: 40px;
+    font-size: 24px;
+    line-height: 29.05px;
+}
+
+
+footer{
+    margin-left: 40px;
+}
+article h1{
+    font-size: 36px;
+    color:  rgba(130, 16, 149, 1);
+    margin-left: 40px
+    ;
+}
+div.dt1{
+    font-size: 24px;
+    color:  rgba(212, 30, 242, 1);
+    margin-left: 40px;
+}
+
+.border{
+    background-color: rgba(212, 30, 242, 1);
+    width: 448px;
+    height: 204px;
+    margin-left: 496px;
+}
+ 
+
+.info1{
+    color: aliceblue;
+    font-size: 45px;
+    
+}
+.info2{
+    margin-top: 20px;
+    font-size:  22px;
+}
+span {
+   color: rgb(170, 174, 195);
+}
